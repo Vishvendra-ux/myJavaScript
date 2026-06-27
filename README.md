@@ -1,0 +1,2 @@
+# myJavaScript
+My javascript journey
